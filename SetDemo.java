@@ -9,5 +9,6 @@ public class SetDemo {
         hs.add(6);
         System.out.println(hs.add(5));
         System.out.println(hs);
+
     }
 }
